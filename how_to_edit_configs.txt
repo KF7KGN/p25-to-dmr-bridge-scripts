@@ -1,0 +1,3 @@
+How to Edit Configs:
+1. Use `nano /etc/configfile.ini` to edit configuration files.
+2. Save changes with CTRL + O, then exit with CTRL + X.

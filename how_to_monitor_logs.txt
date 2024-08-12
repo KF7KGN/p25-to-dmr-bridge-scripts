@@ -1,0 +1,14 @@
+How to Monitor Logs:
+
+1. To reattach to a running screen session, use:
+   screen -r <session_name>
+   
+   For example, to view the P25Gateway logs, use:
+   screen -r P25Gateway
+
+2. To view real-time log output, use:
+   tail -f /path/to/logfile
+
+3. To detach from a screen session without stopping it, press:
+   CTRL + A, then D
+
